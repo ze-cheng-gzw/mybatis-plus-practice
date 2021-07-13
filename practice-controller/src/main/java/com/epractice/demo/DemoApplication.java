@@ -4,7 +4,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@MapperScan("com.epractice.mapper")
+@MapperScan("com.epractice.demo.text.mapper")
 @SpringBootApplication
 public class DemoApplication {
 
